@@ -20,6 +20,14 @@ Distribution (Google Drive). The working copies for this project are hosted on G
 
 ![Cropped Faces](https://res.cloudinary.com/dwt2cschx/image/upload/v1755594594/Screenshot_2025-08-19_160942_np59jc.png)
 
+### Train/Test Split (subject-disjoint)
+
+| Split | Real | Fake | Total | Identity IDs |
+| ----: | ---: | ---: | ----: | ------------ |
+| Train |  289 |  545 |   834 | 1–22         |
+|  Test |   74 |  144 |   218 | 23–28        |
+
+
 ## Pipeline
 
 1. **Prepare Data** (`prepare_data.ipynb`)  
@@ -31,14 +39,6 @@ Distribution (Google Drive). The working copies for this project are hosted on G
    - Feature extraction with **LBP**, **HOG**, and **HOG+LBP**  
    - Train ML models (**Linear Regression**, **SVC**, **Random Forest**)  
    - Evaluate performance  
-
-## Train/Test Split (subject-disjoint)
-
-| Split | Real | Fake | Total | Identity IDs |
-| ----: | ---: | ---: | ----: | ------------ |
-| Train |  289 |  545 |   834 | 1–22         |
-|  Test |   74 |  144 |   218 | 23–28        |
-
 
 ## Models Used
 
