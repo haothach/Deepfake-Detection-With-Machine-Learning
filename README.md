@@ -8,7 +8,7 @@ This repo uses a curated subset and subject-disjoint split prepared from that so
 
 Distribution (Google Drive). The working copies for this project are hosted on Google Drive and must be downloaded before running the notebooks:
 
-**Drive folder (download required):** https://drive.google.com/drive/folders/1QhxwAu1dmYE-YLpQPJGamxm4A58s-P-T?usp=drive_link
+**Drive folder (download required):** [Google Drive](https://drive.google.com/drive/folders/1QhxwAu1dmYE-YLpQPJGamxm4A58s-P-T?usp=drive_link)
 
 ### Dataset Samples
 
